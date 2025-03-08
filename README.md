@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm JBAE</h1>
 <h3 align="center">Inspired by engineering, with academic and professional experience across the U.S., Korea, and Germany</h3>
-<img align="right" alt="Profile Picture" width="400" src="https://github.com/junhb/junhb/blob/main/profile-1.jpg?raw=true">
 
 - 🌱 I’m currently learning **AI, ROS2, SLAM**
 
